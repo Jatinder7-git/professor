@@ -65,4 +65,5 @@ def simulate_level(level):
             break
 
 
-main()
+if __name__ =="__main()__":
+    main()
